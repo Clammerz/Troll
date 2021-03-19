@@ -1,2 +1,2 @@
 echo on
-echo "Hello World"
+echo "https://i.imgur.com/aSwhVbb.png"
