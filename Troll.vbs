@@ -9,7 +9,7 @@ With Troll
     .Width = 200
     .Height = 200
     .Visible = 1
-    .Document.Title = "Important image!"
+    .Document.Title = "Trolled XD !!!"
     .Document.Body.InnerHTML = _
         "<img src='https://i.imgur.com/aSwhVbb.png' height=100 width=100>"
 End With
