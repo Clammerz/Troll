@@ -11,5 +11,5 @@ With Troll
     .Visible = 1
     .Document.Title = "Trolled XD !!!"
     .Document.Body.InnerHTML = _
-        "<img src='https://i.imgur.com/aSwhVbb.png' height=100 width=100>"
+        "<img src='https://i.imgur.com/h27QlG4.png' height=100 width=100>"
 End With
